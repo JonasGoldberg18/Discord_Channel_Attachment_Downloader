@@ -1,7 +1,7 @@
 # Discord_Channel_Attachment_Downloader
 Downloads attachments from a specified server on discord. Attachments include all files that were uploaded to a discord server.
-All the dependencies have already been included. To run the script, use a terminal window to navigate to the location of 
-the link_grabber.py. 
+All the dependencies have already been included in the dependencies.zip. Nontheless, feel free to install the dependencies 
+without the .zip file. The modules selenium, BeautifulSoup and requests were all used. 
 
 Once this .py file is executed, you input the location of where the attachments should be downloaded. Afterwards, a 
 Microsoft Edge window being automated by selenium will open and you will have 45 seconds to log into discord and
